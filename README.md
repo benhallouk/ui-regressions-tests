@@ -9,7 +9,7 @@ By default this configuration run on chrome canary browser so make sure you get 
 Install backstop globally using npm
 
 ```sh
-npm install -g backstop
+npm install -g backstopjs
 ```
 
 Generate the initial configuration file
