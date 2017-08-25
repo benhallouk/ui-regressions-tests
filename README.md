@@ -105,7 +105,7 @@ backstop reference
 Now that we have the reference screenshots we can run the tests
 
 ```sh
-npm run test
+backstop test
 ```
 
 To find out more about the configuration and the tool visit the [their official repo](https://github.com/garris/BackstopJS)
